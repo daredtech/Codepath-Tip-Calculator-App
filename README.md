@@ -1,6 +1,6 @@
 # Pre-work - Codepath Tip Calculator App.
 
-Codepath Tip Calculator App. is a tip calculator application for iOS.
+Codepath Tip Calculator App is a tip calculator application for iOS.
 
 Submitted by: Volha Hancharova
 
