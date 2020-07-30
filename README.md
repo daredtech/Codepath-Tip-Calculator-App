@@ -16,7 +16,7 @@ The following functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://s3.amazonaws.com/img0.recordit.co/CZtswpkExV.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1596155642&Signature=5KY5%2B1xEdleIkNNTgM1ocHXvR2w%3D' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/CZtswpkExV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [recordit.co](http://https://recordit.co/).
 
